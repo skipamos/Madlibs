@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name = input("Please enter a man's name ")
 madlib = name
 madlib += " is a normal "
@@ -11,3 +12,6 @@ madlib += " exploded in the shape of a fiery "
 madlib += input("shape ")
 madlib += " and {} was never heard from again.".format(name)
 print(madlib)
+=======
+return "Hello"
+>>>>>>> cd74c4f303ace5f74ba8247a3a5cbdbd558a5621
